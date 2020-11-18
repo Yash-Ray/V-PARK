@@ -14,4 +14,10 @@ How to Execute this Application?
 The entire application is written in C programming Language. So, any IDE and Terminal which supports C compilers will be able to execute this application.
 <h6>For IDEs:</h6>
 Clone the Repository onto your system, and execute the <strong>'src.c'</strong> file from your IDE.
+<h6>For Terminals</h6>
+<ul>
+  <li><strong>GCC - </strong>For GCC Compilers, follow these steps:
+    <ol><li>Assuming your code is saved as <strong>src.c</strong></li>
+      <li>Open Terminal</li></ol>
+  </li>
 </p>
