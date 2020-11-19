@@ -14,10 +14,22 @@ How to Execute this Application?
 The entire application is written in C programming Language. So, any IDE and Terminal which supports C compilers will be able to execute this application.
 <h6>For IDEs:</h6>
 Clone the Repository onto your system, and execute the <strong>'src.c'</strong> file from your IDE.
-<h6>For Terminals</h6>
+<h6>For Terminals (Linux/UBUNTU)</h6>
 <ul>
-  <li><strong>GCC - </strong>For GCC Compilers, follow these steps:
+  <li><strong>GCC</strong> - For GCC Compilers, follow these steps:
     <ol><li>Assuming your code is saved as <strong>src.c</strong></li>
-      <li>Open Terminal</li></ol>
+      <li>Open Terminal</li>
+      <li>Type <strong>gcc -o result src.c</strong> - This will compile the file 'src.c' and the compiled code will be named as 'result'.</li>
+      <li>Now type <strong>./result</strong> - This will execute the code compiled in the previous step.</li>
+      <li>For more information on how to execute <strong>C</strong> codes on Terminals with GCC Compilers, refer to <a href="http://akira.ruc.dk/~keld/teaching/CAN_e14/Readings/How%20to%20Compile%20and%20Run%20a%20C%20Program%20on%20Ubuntu%20Linux.pdf">this</a></li></ol>
   </li>
+  <li><strong>CLANG</strong> - For CLANG Compilers, follow these steps:
+    <ol><li>Open Terminal</li>
+      <li>Type <strong>clang -o result src.c</strong> - This will compile the file 'src.c' and the compiled code will be named as 'result'</li>
+      <li>Now type <strong>./result</strong> - This will execute the code compiled in the previous step.</li>
+      <li>For more information on how to execute <strong>C</strong> codes on Terminals using CLANG Compilers, refer to <a href="https://www.lynxbee.com/what-is-clang-how-to-compile-c-program-using-clang/">this</a></li></ol></li></ul>
+</p>
+<hr>
+<p align='center'>
+  <code>Do Star the Repository. It feels motivating to see stars, don't they? ;)</code>
 </p>
