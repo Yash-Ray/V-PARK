@@ -31,5 +31,5 @@ Clone the Repository onto your system, and execute the <strong>'src.c'</strong> 
 </p>
 <hr>
 <p align='center'>
-  <code>Do Star the Repository. It feels motivating to see stars, don't they? ;)</code>
+  <code>Do Star the Repository. Stars look stunning in the night-sky and on any repository, don't they? ;)</code>
 </p>
